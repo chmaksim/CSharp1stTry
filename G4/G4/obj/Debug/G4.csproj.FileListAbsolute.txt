@@ -1,0 +1,6 @@
+c:\users\максим\documents\visual studio 2015\Projects\G4\G4\bin\Debug\G4.exe.config
+c:\users\максим\documents\visual studio 2015\Projects\G4\G4\bin\Debug\G4.exe
+c:\users\максим\documents\visual studio 2015\Projects\G4\G4\bin\Debug\G4.pdb
+c:\users\максим\documents\visual studio 2015\Projects\G4\G4\obj\Debug\G4.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2015\Projects\G4\G4\obj\Debug\G4.exe
+c:\users\максим\documents\visual studio 2015\Projects\G4\G4\obj\Debug\G4.pdb
